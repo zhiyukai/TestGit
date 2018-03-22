@@ -1,3 +1,4 @@
+git reset --sofft HEAD
 Test12 user2 add 
 Test12User2
 Test12User1
